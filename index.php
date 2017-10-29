@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Titulo Site</title>
+    <title>Colégio Vida</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,20 +28,20 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Nome da Empresa</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Colégio Vida</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
+              <a class="nav-link js-scroll-trigger" href="#about">Saiba Mais</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#services">Serviços</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Fotos</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
@@ -54,10 +54,10 @@
     <header class="masthead">
       <div class="header-content">
         <div class="header-content-inner">
-          <h1 id="homeHeading">Titulo grande Titulo grande Titulo grande </h1>
+          <h1 id="homeHeading">Educação Infantil</h1>
           <hr>
-          <p>Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto </p>
-          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Texto Botão</a>
+          <p>Trabalhar o presente de cada criança com amor e assegurar um fututo melhor para todos</p>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Saiba Mais</a>
         </div>
       </div>
     </header>
@@ -66,10 +66,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">Titulo Titulo Titulo Titulo</h2>
+            <h2 class="section-heading text-white">Sobre o Colégio Vida</h2>
             <hr class="light">
-            <p class="text-faded">Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto </p>
-            <a class="btn btn-default btn-xl js-scroll-trigger" href="#services">Texto Botão</a>
+            <p class="text-faded">Colégio Vida é uma instituição onde acolhemos com muito carinho e dedicação nossos alunos, trazendo o melhor para sua aprendizagem.</p>
+            <a class="btn btn-default btn-xl js-scroll-trigger" href="#services">Colégio vida de portas abertas para Você</a>
           </div>
         </div>
       </div>
@@ -79,39 +79,35 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Titulo</h2>
+            <h2 class="section-heading">Serviços</h2>
             <hr class="primary">
           </div>
         </div>
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-lg-3 col-md-6 text-center">
+          <div class="col-lg-4 col-md-8 text-center">
             <div class="service-box">
-              <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-              <h3>Titulo Titulo</h3>
-              <p class="text-muted">Texto Texto Texto Texto Texto Texto Texto </p>
+                <!--<i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>-->
+              <h3>Jardim</h3>
+              <p class="text-muted">Nessa fase, visamos o desenvolvimento integral da criança, Buscamos o desenvolvimento da linguagem como forma de comunicação, damos continuidade com período preparatório para alfabetização, estimulamos a leitura através de Projetos.</p>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 text-center">
+          <div class="col-lg-4 col-md-8 text-center">
             <div class="service-box">
-              <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-              <h3>Titulo Titulo</h3>
-              <p class="text-muted">Texto Texto Texto Texto Texto Texto Texto </p>
+                <!--<i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>-->
+              <h3>Pré Escola</h3>
+              <p class="text-muted">Nessa idade a criança já tem uma percepção mais exata do espaço e do mundo que a cerca.
+                  Aqui já iniciamos o processo de prontidão para aquisição da escrita e leitura, trabalhamos com as letras cursivas, bastão e forma.</p>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 text-center">
+          <div class="col-lg-4 col-md-8 text-center">
             <div class="service-box">
-              <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-              <h3>Titulo Titulo</h3>
-              <p class="text-muted">Texto Texto Texto Texto Texto Texto Texto </p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 text-center">
-            <div class="service-box">
-              <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-              <h3>Titulo Titulo</h3>
-              <p class="text-muted">Texto Texto Texto Texto Texto Texto Texto </p>
+              <!--<i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>-->
+              <h3>Berçario</h3>
+              <p class="text-muted">
+                  O trabalho dos berçários são extremamente importante, pois é nesta fase de desenvolvimento que as crianças começam a definir sua personalidade, criar vínculos sociais e estabelecer laços afetivos. Por este motivo, o respeito à individualidade é muito significativa aqui no Colégio Vida.
+              </p>
             </div>
           </div>
         </div>
@@ -217,29 +213,51 @@
 
     <div class="call-to-action bg-dark">
       <div class="container text-center">
-        <h2>Teste Teste Teste Teste Teste Teste </h2>
-        <a class="btn btn-default btn-xl sr-button" href="#">Botão teste</a>
+        <h2>Entre em contato conosco!</h2>
+        <a role="button" class="btn btn-default btn-xl sr-button"  data-toggle="modal" href="#myModal">Enviar Mensagem</a>
       </div>
     </div>
-
+    <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 id="myModalLabel">Enviar Contato</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                </div>
+                <div class="modal-body">
+                    <form class="form-horizontal col-sm-12" action="#" method="get">
+                        <div class="form-group"><label>Nome</label><input class="form-control required" placeholder="Seu Nome" name="nome"></div>
+                        <div class="form-group"><label>Mensagem</label><textarea class="form-control" placeholder="Sua mensagem aqui..." name="mensagem"></textarea></div>
+                        <div class="form-group"><label>E-Mail</label><input class="form-control email" placeholder="email@you.com" name="email"></div>
+                        <div class="form-group"><label>Telefone</label><input class="form-control phone" placeholder="11-9999-9999" name="telefone"></div>
+                        <div class="form-group"><button type="submit" class="btn btn-success pull-right">Enviar!</button></div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn" data-dismiss="modal" aria-hidden="true">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <section id="contact">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">Titulo Teste !</h2>
+            <h2 class="section-heading">MATRICULAS ABERTAS!</h2>
             <hr class="primary">
-            <p>Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto </p>
+            <p>Rua José Mendes Pereira, 268 - Jardim Eliza</p>
+            <p>Francisco Morato - SP</p>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-4 ml-auto text-center">
             <i class="fa fa-phone fa-3x sr-contact"></i>
-            <p>(11)9 6608-3635</p>
+            <p>(11) 4489-1736</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
-            <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+            <i class="fa fa-facebook fa-3x sr-contact"></i>
             <p>
-              <a href="mailto:rodinei.lima@gmail.com">rodinei.lima@gmail.com</a>
+              <a style="color: #003aff" href="https://www.facebook.com/ColegioVida2017">www.facebook.com/ColegioVida2017</a>
             </p>
           </div>
         </div>
